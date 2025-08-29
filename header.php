@@ -167,7 +167,10 @@
                 <a href="#" class="block py-3 border-b text-gray-700 hover:text-amber-600">Packages</a>
                 <a href="contact.php" class="block py-3 border-b text-gray-700 hover:text-amber-600">Contact Us</a>
                 <div class="flex space-x-4 py-4">
-                    <a href="#" class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">Book Now</a>
+                  <a href="tel:+918112908013" 
+                    class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                    📞 Book Now
+                  </a>                
                 </div>
             </div>
         </div>
