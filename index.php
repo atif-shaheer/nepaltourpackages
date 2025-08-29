@@ -14,7 +14,7 @@
                         <h1 class="text-4xl md:text-6xl font-bold mb-4">Explore the Roof of the World</h1>
                         <p class="text-xl md:text-2xl mb-8 max-w-2xl">Journey to Everest Base Camp through the
                             breathtaking Himalayas</p>
-                        <a href="#"
+                        <a href="tel:+918112908013"
                             class="inline-block px-8 py-3 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300 text-lg font-medium">Book
                             This Tour</a>
                     </div>
@@ -30,7 +30,7 @@
                         <h1 class="text-4xl md:text-6xl font-bold mb-4">Serenity of Pokhara</h1>
                         <p class="text-xl md:text-2xl mb-8 max-w-2xl">Discover the tranquil beauty of Nepal's lake city
                         </p>
-                        <a href="#"
+                        <a href="tel:+918112908013"
                             class="inline-block px-8 py-3 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300 text-lg font-medium">Explore
                             Packages</a>
                     </div>
@@ -46,7 +46,7 @@
                         <h1 class="text-4xl md:text-6xl font-bold mb-4">Wildlife Adventure</h1>
                         <p class="text-xl md:text-2xl mb-8 max-w-2xl">Experience the exotic wildlife of Chitwan National
                             Park</p>
-                        <a href="#"
+                        <a href="tel:+918112908013"
                             class="inline-block px-8 py-3 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300 text-lg font-medium">Start
                             Your Safari</a>
                     </div>
@@ -108,10 +108,10 @@
                                         </div>
                                         <span class="text-sm text-gray-600 ml-1">(4.8)</span>
                                     </div>
-                                    <button
-                                        class="w-full py-2 bg-amber-600 text-white rounded-lg hover:bg-amber-700 transition duration-300 text-sm font-medium">
-                                        View Details
-                                    </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -136,10 +136,10 @@
                                         </div>
                                         <span class="text-sm text-gray-600 ml-1">(5.0)</span>
                                     </div>
-                                    <button
-                                        class="w-full py-2 bg-amber-600 text-white rounded-lg hover:bg-amber-700 transition duration-300 text-sm font-medium">
-                                        View Details
-                                    </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -165,10 +165,10 @@
                                         </div>
                                         <span class="text-sm text-gray-600 ml-1">(4.2)</span>
                                     </div>
-                                    <button
-                                        class="w-full py-2 bg-amber-600 text-white rounded-lg hover:bg-amber-700 transition duration-300 text-sm font-medium">
-                                        View Details
-                                    </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -193,10 +193,10 @@
                                         </div>
                                         <span class="text-sm text-gray-600 ml-1">(4.7)</span>
                                     </div>
-                                    <button
-                                        class="w-full py-2 bg-amber-600 text-white rounded-lg hover:bg-amber-700 transition duration-300 text-sm font-medium">
-                                        View Details
-                                    </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -221,10 +221,10 @@
                                         </div>
                                         <span class="text-sm text-gray-600 ml-1">(4.0)</span>
                                     </div>
-                                    <button
-                                        class="w-full py-2 bg-amber-600 text-white rounded-lg hover:bg-amber-700 transition duration-300 text-sm font-medium">
-                                        View Details
-                                    </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -249,10 +249,10 @@
                                         </div>
                                         <span class="text-sm text-gray-600 ml-1">(5.0)</span>
                                     </div>
-                                    <button
-                                        class="w-full py-2 bg-amber-600 text-white rounded-lg hover:bg-amber-700 transition duration-300 text-sm font-medium">
-                                        View Details
-                                    </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -277,10 +277,10 @@
                                         </div>
                                         <span class="text-sm text-gray-600 ml-1">(3.8)</span>
                                     </div>
-                                    <button
-                                        class="w-full py-2 bg-amber-600 text-white rounded-lg hover:bg-amber-700 transition duration-300 text-sm font-medium">
-                                        View Details
-                                    </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -305,10 +305,10 @@
                                         </div>
                                         <span class="text-sm text-gray-600 ml-1">(4.1)</span>
                                     </div>
-                                    <button
-                                        class="w-full py-2 bg-amber-600 text-white rounded-lg hover:bg-amber-700 transition duration-300 text-sm font-medium">
-                                        View Details
-                                    </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -427,10 +427,10 @@
                             <!-- <div>
                             <span class="block text-xl font-bold text-amber-600">$350</span>
                         </div> -->
-                            <button
-                                class="view-details-btn px-4 py-2 bg-amber-600 text-white rounded-lg text-sm font-medium hover:bg-amber-700 transition-colors duration-200 flex items-center">
-                                View <span class="hidden sm:inline ml-1">Details</span>
-                            </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                         </div>
                     </div>
                 </div>
@@ -471,10 +471,10 @@
                             <!-- <div>
                             <span class="block text-xl font-bold text-amber-600">$500</span>
                         </div> -->
-                            <button
-                                class="view-details-btn px-4 py-2 bg-amber-600 text-white rounded-lg text-sm font-medium hover:bg-amber-700 transition-colors duration-200 flex items-center">
-                                View <span class="hidden sm:inline ml-1">Details</span>
-                            </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                         </div>
                     </div>
                 </div>
@@ -515,10 +515,10 @@
                             <!-- <div>
                             <span class="block text-xl font-bold text-amber-600">$250</span>
                         </div> -->
-                            <button
-                                class="view-details-btn px-4 py-2 bg-amber-600 text-white rounded-lg text-sm font-medium hover:bg-amber-700 transition-colors duration-200 flex items-center">
-                                View <span class="hidden sm:inline ml-1">Details</span>
-                            </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                         </div>
                     </div>
                 </div>
@@ -559,10 +559,10 @@
                             <!-- <div>
                             <span class="block text-xl font-bold text-amber-600">$400</span>
                         </div> -->
-                            <button
-                                class="view-details-btn px-4 py-2 bg-amber-600 text-white rounded-lg text-sm font-medium hover:bg-amber-700 transition-colors duration-200 flex items-center">
-                                View <span class="hidden sm:inline ml-1">Details</span>
-                            </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                         </div>
                     </div>
                 </div>
@@ -604,10 +604,10 @@
                             <span class="text-gray-500 line-through text-sm">$1,500</span>
                             <span class="block text-xl font-bold text-amber-600">$1,200</span>
                         </div> -->
-                            <button
-                                class="view-details-btn px-4 py-2 bg-amber-600 text-white rounded-lg text-sm font-medium hover:bg-amber-700 transition-colors duration-200 flex items-center">
-                                View <span class="hidden sm:inline ml-1">Details</span>
-                            </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                         </div>
                     </div>
                 </div>
@@ -648,10 +648,10 @@
                             <!-- <div>
                             <span class="block text-xl font-bold text-amber-600">$1,400</span>
                         </div> -->
-                            <button
-                                class="view-details-btn px-4 py-2 bg-amber-600 text-white rounded-lg text-sm font-medium hover:bg-amber-700 transition-colors duration-200 flex items-center">
-                                View <span class="hidden sm:inline ml-1">Details</span>
-                            </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                         </div>
                     </div>
                 </div>
@@ -692,10 +692,10 @@
                             <!-- <div>
                             <span class="block text-xl font-bold text-amber-600">$80</span>
                         </div> -->
-                            <button
-                                class="view-details-btn px-4 py-2 bg-amber-600 text-white rounded-lg text-sm font-medium hover:bg-amber-700 transition-colors duration-200 flex items-center">
-                                View <span class="hidden sm:inline ml-1">Details</span>
-                            </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                         </div>
                     </div>
                 </div>
@@ -782,11 +782,10 @@
                             <i class="fas fa-calendar-alt mr-2 text-amber-500"></i>
                             <span>Valid until: May 30, 2024</span>
                         </div>
-                        <button
-                            class="w-full py-3 bg-amber-600 hover:bg-amber-700 text-white rounded-lg font-medium transition-colors duration-300 flex items-center justify-center group-hover:shadow-md">
-                            Book Now <i
-                                class="fas fa-arrow-right ml-2 transition-transform group-hover:translate-x-1"></i>
-                        </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                     </div>
                 </div>
 
@@ -835,11 +834,10 @@
                             <i class="fas fa-calendar-alt mr-2 text-amber-500"></i>
                             <span>Valid until: June 15, 2024</span>
                         </div>
-                        <button
-                            class="w-full py-3 bg-amber-600 hover:bg-amber-700 text-white rounded-lg font-medium transition-colors duration-300 flex items-center justify-center group-hover:shadow-md">
-                            Book Now <i
-                                class="fas fa-arrow-right ml-2 transition-transform group-hover:translate-x-1"></i>
-                        </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                     </div>
                 </div>
 
@@ -888,11 +886,10 @@
                             <i class="fas fa-calendar-alt mr-2 text-amber-500"></i>
                             <span>Valid until: April 30, 2024</span>
                         </div>
-                        <button
-                            class="w-full py-3 bg-amber-600 hover:bg-amber-700 text-white rounded-lg font-medium transition-colors duration-300 flex items-center justify-center group-hover:shadow-md">
-                            Book Now <i
-                                class="fas fa-arrow-right ml-2 transition-transform group-hover:translate-x-1"></i>
-                        </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                     </div>
                 </div>
             </div>
@@ -952,10 +949,10 @@
                                     </div>
                                     <p class="text-gray-600 mb-4">Boat rides, caves, and mountain views perfect for
                                         families with young kids.</p>
-                                    <button
-                                        class="w-full py-2 bg-amber-600 hover:bg-amber-700 text-white rounded-lg font-medium transition-colors duration-300">
-                                        View Details
-                                    </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -990,10 +987,10 @@
                                     </div>
                                     <p class="text-gray-600 mb-4">Elephant rides, canoe trips, and wildlife spotting for
                                         the whole family.</p>
-                                    <button
-                                        class="w-full py-2 bg-amber-600 hover:bg-amber-700 text-white rounded-lg font-medium transition-colors duration-300">
-                                        View Details
-                                    </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -1028,10 +1025,10 @@
                                     </div>
                                     <p class="text-gray-600 mb-4">Explore ancient temples, markets, and puppet shows for
                                         kids.</p>
-                                    <button
-                                        class="w-full py-2 bg-amber-600 hover:bg-amber-700 text-white rounded-lg font-medium transition-colors duration-300">
-                                        View Details
-                                    </button>
+                                    <a href="tel:+918112908013" 
+                                        class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">
+                                        Book Now
+                                    </a>
                                 </div>
                             </div>
                         </div>
