@@ -111,13 +111,13 @@
 </head>
 <body class="font-[Poppins] bg-gray-50">
 
-<a href="https://api.whatsapp.com/send?phone=9876543210&text=Hello%21%20I%20need%20information%20about%20Nepal%20tours." class="whatsapp-float" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=+918112908013&text=Hello%21%20I%20need%20information%20about%20Nepal%20tours." class="whatsapp-float" target="_blank">
   <i class="fab fa-whatsapp my-float"></i>
   <span class="radar-effect"></span>
 </a>
 
 <!-- Call Floating Button -->
-<a href="tel:+91-9876543210" class="call-float">
+<a href="tel:+918112908013" class="call-float">
   <i class="fas fa-phone my-float"></i>
   <span class="radar-effect"></span>
 </a>
@@ -146,7 +146,7 @@
 
                 <!-- CTA Buttons -->
                 <div class="hidden md:flex items-center space-x-4">
-                    <a href="#" class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">Book Now</a>
+                    <a href="tel:+918112908013" class="px-6 py-2 bg-amber-600 text-white rounded-md hover:bg-amber-700 transition duration-300">Book Now</a>
                 </div>
 
                 <!-- Mobile Menu Button -->
